@@ -2,7 +2,7 @@
 #include "myheader.h"
 
 int main(void){
-	printHello();
+	printHello();	// printing hello
 	printBye();
 
 	return 0;
